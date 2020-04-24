@@ -9,4 +9,9 @@
       <initValue>'https://reqres.in/'</initValue>
       <name>Endpoint</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>FirestName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
